@@ -1,5 +1,3 @@
-letter = "Dear Harry, This Python course is nice! Thanks!"
-print(letter)
-
-formatted_letter = "Dear Harry,\n\tThis Python course is nice!\nThanks!"
-print(formatted_letter)
+n = 3
+for i in range(n):
+    print("*" * (n-i)) # Prints * n-i times
